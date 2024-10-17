@@ -1,0 +1,15 @@
+3
+2
+a
+b
+1
+Z
+1
+3
+5
+1 a Z AAZ 1
+1 a A AA 1
+1 l A A 2
+2 b A l 2
+2 l Z Z 3
+aaabbb
